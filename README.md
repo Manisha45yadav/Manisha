@@ -21,9 +21,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Manisha45yadav&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
