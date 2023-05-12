@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi , I'm Manisha Yadav from IGDTUW college ECE branch. <br>👀 I’m interested in Coding, Making projects, web development, DSA and many more.<br>🌱 I’m currently learning C++, frontend development.<br>
+👋 Hi , I'm Manisha Yadav from IGDTUW college ECE branch. <br>👀 I’m interested in Coding, Making projects, web development, DSA and many more.<br>🌱 I’m currently learning C++ and frontend webdevelopment.<br>
 
 
 ## 🌐 Socials:
