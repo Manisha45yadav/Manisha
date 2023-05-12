@@ -18,7 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Manisha45yadav&icon=2&color=0)](https://visitcount.itsvg.in)
