@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="300px" src="https://c.tenor.com/1d9jmOsLP2cAAAAd/hello.gif" height="100%"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manisha Yadav</h1>
-# 💫 About Me:
+# 💫 About Me:<br>
 👋 I'm from IGDTUW ECE branch. <br>👀 I’m interested in Coding, Making projects, web development, DSA and many more.<br>🌱 I’m currently learning C++ and frontend web development.<br>
 
 
