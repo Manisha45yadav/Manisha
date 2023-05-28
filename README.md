@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Coding and Web development.**
 
-- 👨‍💻 i am currently studing in **IGDTUW(ECE Branch)**
+- 👨‍💻 I'm currently studing in **IGDTUW(ECE Branch)**
 
 - 📫 How to reach me **manishayadav1360@gmail.com**
 
